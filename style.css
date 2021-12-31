@@ -1,0 +1,33 @@
+* {
+    font-family: Helvetica, Arial, sans-serif;
+    text-align: center;
+  }
+  button {
+    background-color: rgba(16, 141, 214, 0.993);
+    border-radius: 100px;
+    border: none;
+    color: rgb(255, 255, 255);
+    padding: 15px;
+    text-transform: uppercase;
+    width: 250px;
+    cursor: pointer;
+  }
+  #placeholder {
+    height: 120px;
+    width: 120px;
+    padding: 70px;
+    margin: 50px auto;
+    border: 4px solid gray;
+    border-radius: 10px;  
+    font-size:80px;
+  }
+  body {
+    padding: 25px;
+    background-color: white;
+    color: black;
+    font-size: 25px;
+  }
+  .dark-mode {
+    background-color: black;
+    color: white;
+  }
