@@ -19,3 +19,7 @@ var dice = {
   var element = document.body;
   element.classList.toggle("dark-mode");
 }
+function myFunction() {
+  var elemento = document.body;
+  elemento.classList.toggle("red-mode");
+}
